@@ -1,2 +1,2 @@
 # Codechef_Solutions_Enigmacode
-My codechef contests solutions repository
+My codechef contests solutions repository.
